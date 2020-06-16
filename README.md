@@ -1,6 +1,6 @@
-# Dual-Image Input U-Net Model
+# Image Segmentation Model for the [xView2](https://xview2.org/) Competition
 
-**The Dual Image U-Net Architecture:**
+## Dual-Image Input U-Net Model Used:
 ![Dual Image U-Net](latex_files/unet.png)
 
 ## Environment Setup:
