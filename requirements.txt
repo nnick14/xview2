@@ -3,5 +3,5 @@ numpy==1.18.1
 opencv-python==4.2.0.32
 Pillow==7.1.0
 Shapely==1.7.0
-tensorflow==2.1.2
+tensorflow==2.7.2
 tqdm==4.46.0
